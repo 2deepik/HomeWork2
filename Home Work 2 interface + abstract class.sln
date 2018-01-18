@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW2", "Home Work 2 interface + abstract class\HW2.csproj", "{74B76ACC-65FF-4977-B476-EB49E7B6FB74}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74B76ACC-65FF-4977-B476-EB49E7B6FB74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74B76ACC-65FF-4977-B476-EB49E7B6FB74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74B76ACC-65FF-4977-B476-EB49E7B6FB74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74B76ACC-65FF-4977-B476-EB49E7B6FB74}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C26F01E7-F515-43E5-A4F8-1954C9BE6064}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+c:\users\yuriy.padalko\source\repos\Home Work 2 interface + abstract class\Home Work 2 interface + abstract class\obj\Debug\netcoreapp2.0\HW2.csprojResolveAssemblyReference.cache
+c:\users\yuriy.padalko\source\repos\Home Work 2 interface + abstract class\Home Work 2 interface + abstract class\obj\Debug\netcoreapp2.0\HW2.csproj.CoreCompileInputs.cache
+c:\users\yuriy.padalko\source\repos\Home Work 2 interface + abstract class\Home Work 2 interface + abstract class\obj\Debug\netcoreapp2.0\HW2.AssemblyInfoInputs.cache
+c:\users\yuriy.padalko\source\repos\Home Work 2 interface + abstract class\Home Work 2 interface + abstract class\obj\Debug\netcoreapp2.0\HW2.AssemblyInfo.cs
+c:\users\yuriy.padalko\source\repos\Home Work 2 interface + abstract class\Home Work 2 interface + abstract class\bin\Debug\netcoreapp2.0\HW2.deps.json
+c:\users\yuriy.padalko\source\repos\Home Work 2 interface + abstract class\Home Work 2 interface + abstract class\bin\Debug\netcoreapp2.0\HW2.runtimeconfig.json
+c:\users\yuriy.padalko\source\repos\Home Work 2 interface + abstract class\Home Work 2 interface + abstract class\bin\Debug\netcoreapp2.0\HW2.runtimeconfig.dev.json
+c:\users\yuriy.padalko\source\repos\Home Work 2 interface + abstract class\Home Work 2 interface + abstract class\bin\Debug\netcoreapp2.0\HW2.dll
+c:\users\yuriy.padalko\source\repos\Home Work 2 interface + abstract class\Home Work 2 interface + abstract class\bin\Debug\netcoreapp2.0\HW2.pdb
+c:\users\yuriy.padalko\source\repos\Home Work 2 interface + abstract class\Home Work 2 interface + abstract class\obj\Debug\netcoreapp2.0\HW2.dll
+c:\users\yuriy.padalko\source\repos\Home Work 2 interface + abstract class\Home Work 2 interface + abstract class\obj\Debug\netcoreapp2.0\HW2.pdb
